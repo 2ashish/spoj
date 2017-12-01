@@ -1,0 +1,4 @@
+1. Implement FFT and its Inverse	http://www.spoj.com/problems/IITKESO207A_1P_1/
+2. Infix Notation Calculator		http://www.spoj.com/problems/IITKESO207A_2P_1/
+3. Strongly Connected Components	http://www.spoj.com/problems/IITKESO207A_3P_1/
+4. Single Source Shortest Path		http://www.spoj.com/problems/IITKESO207A_4P_1/
